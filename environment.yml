@@ -1,10 +1,11 @@
-name: mpei
+name: smopa_25
 channels:
   - conda-forge
   - pytorch
   - anaconda
 dependencies:
   - python=3.12.4
+  - ipython=8.32.0
   - jupyter=1.1.1
   - ipywidgets=8.1.5
   - plotly=5.24.1
